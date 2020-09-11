@@ -1,0 +1,1 @@
+Esse é um projeto de estudo feito no NLW2
